@@ -7,8 +7,8 @@
 
 import java.io.*;
 import java.util.Scanner;
-public class setup {
-	public setup() {
+public class Setup {
+	public Setup() {
 		File user = new File("User.txt");
 		Scanner kb = new Scanner(System.in);
 		String input;		
